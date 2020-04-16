@@ -1,0 +1,16 @@
+h2{
+    background-color: #FE5804;
+    margin-bottom: 0em;
+}
+#title{
+    background-color: #52A382;
+}
+li{
+list-style: none;
+}
+#listDate, #listDateFormation, #allContact{
+    margin-top: 60px;
+}
+#adress, #phone, #mail, #social{
+    margin-bottom: 20px;
+}
