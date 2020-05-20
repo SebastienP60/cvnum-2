@@ -14,3 +14,6 @@ list-style: none;
 #adress, #phone, #mail, #social{
     margin-bottom: 20px;
 }
+#profile{
+    float: right;
+}
